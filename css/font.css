@@ -1,0 +1,11 @@
+@font-face{
+    font-family: 'pala';
+    font-display: swap;
+    src: url('../font/pala.TTF') format("truetype");
+}
+
+@font-face{
+    font-family: 'yousong';
+    font-display: swap;
+    src: url('../font/FZYouSJK_507R.TTF') format("truetype");
+}
