@@ -9,3 +9,9 @@
     font-display: swap;
     src: url('../font/FZYouSJK_508R.TTF') format("truetype");
 }
+
+@font-face{
+    font-family: 'sabon';
+    font-display: swap;
+    src: url('../font/SabonET.TTF') format("truetype");
+}
